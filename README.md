@@ -1,0 +1,2 @@
+# 6-Bit-Kodlama-Sim-lasyonu-Karakter-Tabanl-Toplama
+Bu program Unix öncesi sistemlerin kısıtlı G/Ç ortamını taklit ederek o dönemin karakter tabanlı veri işleme mantığını temel alır. Uygulama kullanıcıdan iki tek haneli rakamı ASCII karakteri olarak okur bunları sayılara çevirerek toplar. Simülasyonun bir gereği olarak toplam sonucu tek haneli olmalıdır sonuç 9u aşarsa program  hata mesajı üretir.
