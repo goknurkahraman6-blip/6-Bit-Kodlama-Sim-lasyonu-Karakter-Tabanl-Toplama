@@ -21,9 +21,11 @@ int main(int argc, char *argv[]) {
     printf("Toplanacak ilk tek haneli rakami giriniz: ");
     // scanf ile kullanýcýdan TEK BÝR KARAKTER okuyoruz. " %c" formatýndaki boþluk,
     scanf(" %c", &karakter1);
+    printf("['%c'] karakterinin ASCII degeri %d'dir. Sayisal degeri bulmak icin %d - %d ('0'in ASCII degeri) islemi yapiliyor.\n", karakter1, karakter1, karakter1, '0');
     
     printf("Toplanacak ikinci tek haneli rakami giriniz: ");
     scanf(" %c", &karakter2);
+    printf("['%c'] karakterinin ASCII degeri %d'dir. Sayisal degeri bulmak icin %d - %d ('0'in ASCII degeri) islemi yapiliyor.\n", karakter2, karakter2, karakter2, '0');
     
     // --- Ýþlem Bölümü ---
     // 1. Karakterden Sayýya Dönüþtürme:
